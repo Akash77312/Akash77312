@@ -1,6 +1,6 @@
 [![MasterHead](https://media.istockphoto.com/id/1356364268/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-keyboard-screens-show-coding.jpg?s=612x612&w=0&k=20&c=4R_9mWq9KzgpC_pVBMMM0FNzw1L-NyFLa7tDqFInMGs=)](https://portfolio-akash77312.vercel.app/)
 <h1 align="center">Hi 👋, I'm Akash Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java Full-Stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXI3cGd0YWFwMnkybTVkcHdyOWYxaW5iOWU5bWpsdDd2bmtzN3NsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif">
 
@@ -11,15 +11,15 @@
 
 <p align="left"> <a href="https://twitter.com/akashbgp14" target="blank"><img src="https://img.shields.io/twitter/follow/akashbgp14?logo=twitter&style=for-the-badge" alt="akashbgp14" /></a> </p>
 
-- 🔭 I’m currently working on **Job Seeking**
+- 🔭 I’m currently Looking for **Java Developer**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-akash77312.vercel.app/](https://portfolio-akash77312.vercel.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN and Java FullStack Developer**
 
-- 📫 How to reach me **akashnsecit@gmail.com**
+- 📫 How to reach me **akashsingh.77312@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LQwjiF9Wto7b2tGNkITso8LG-grOcZQD/view?usp=drive_link](https://drive.google.com/file/d/1LQwjiF9Wto7b2tGNkITso8LG-grOcZQD/view?usp=drive_link)
 
