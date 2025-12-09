@@ -90,9 +90,10 @@
 ## 🚀 GitHub Stats
 
 <p>
- <img src="https://github-readme-stats.vercel.app/api?username=akash77312&show_icons=true&theme=tokyonight&cache_seconds=7200" />
-  <img height="180" src="https://github-readme-stats-git-master-akash77312.vercel.app/api/top-langs/?username=akash77312&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akash77312&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akash77312&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 <p align="center">
