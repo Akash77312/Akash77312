@@ -1,4 +1,7 @@
-[![MasterHead](https://media.istockphoto.com/id/1356364268/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-keyboard-screens-show-coding.jpg?s=612x612&w=0&k=20&c=4R_9mWq9KzgpC_pVBMMM0FNzw1L-NyFLa7tDqFInMGs=)](https://portfolio-akash77312.vercel.app/)
+<p align="center">
+  <img src="https://media.istockphoto.com/id/1356364268/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-keyboard-screens-show-coding.jpg?s=612x612&w=0&k=20&c=4R_9mWq9KzgpC_pVBMMM0FNzw1L-NyFLa7tDqFInMGs=" 
+       alt="MasterHead" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Akash Raj</h1>
 <h3 align="center">Java Backend & Full-Stack Developer | Spring Boot | Microservices | MERN | DevOps Learner</h3>
